@@ -1,4 +1,4 @@
 # piano-js
-javascript piano with keyboard mappings
- (white keys = zxcvbnm)
- (black keys = sdghj)
+javascript piano with keyboard mappings <br>
+ (white keys = zxcvbnm) <br>
+ (black keys = sdghj) <br>
